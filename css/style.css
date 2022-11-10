@@ -1,0 +1,35 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+}
+
+.inline-block {
+    display: inline-block;
+    padding: 15px;
+    background-color: darkgrey;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    
+}
+
+.left {
+    height: 600px;
+    width: 29%;
+    float: left;
+    background-color: orange;
+    text-align: center;
+    padding-right: 15px;
+}
+
+.top {
+    float: left;
+    padding-right: 15px;
+}
+
+.right {
+    height: 600px;
+    width: 70%;
+    float:right;
+    background-color: grey;
+}
